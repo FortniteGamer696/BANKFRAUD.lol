@@ -367,7 +367,7 @@ do
             Max = 2, Current = 0
         }
         --
-        Library.Theme.Logo = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://i.imgur.com/a/FG1mKpL")
+        Library.Theme.Logo = Utility.AddImage("akiri/Assets/UI/Logo2.png", "https://i.imgur.com/i6LNYCZ")
         --
         local WindowOutline = Utility.AddDrawing("Square", {
             Size = WindowSize,
